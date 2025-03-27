@@ -14,5 +14,5 @@ The primary vision of this project is to **motivate students** by tracking their
 - **Mobile & Web App Development:** A dedicated app can be developed for easy tracking and interaction.
 
 ## Contract Details
-- **Contract Address:** `0xf6406623101d5c5da521710c81d0a2eb11e208b584b25d3f6faf35794a69f7bb`
+- **Contract Address:** "0x760bf93586dfd1709b404bbea42238c8aeb2dd0666efc81bb9df2c50b8f9c770"
 
