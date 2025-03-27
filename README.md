@@ -16,3 +16,4 @@ The primary vision of this project is to **motivate students** by tracking their
 ## Contract Details
 - **Contract Address:** "0x760bf93586dfd1709b404bbea42238c8aeb2dd0666efc81bb9df2c50b8f9c770"
 
+![image](https://github.com/user-attachments/assets/f1b446e6-d922-4bc6-bc19-25ec55f614cd)
